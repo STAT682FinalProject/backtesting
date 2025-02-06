@@ -2,6 +2,8 @@
 
 This project is an AI trading application that allows for backtesting different trading strategies. You can run the app locally or with Streamlit.
 
+Our Streamlit app: https://quantfin.streamlit.app/
+
 ---
 
 ## Project Structure
